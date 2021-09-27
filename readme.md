@@ -5,13 +5,13 @@
 </div>
   <h3 align="center">Backend Zwallet</h3>
   <p align="center">
-    <a href="https://github.com/aryairama/zwallet-express"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Candra-Kurnia/zwallet-express"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://bit.ly/_zwallet">View Demo</a>
     ·
-    <a href="https://github.com/aryairama/zwallet-express/issues">Report Bug</a>
+    <a href="https://github.com/Candra-Kurnia/zwallet-express/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aryairama/zwallet-express/issues">Request Feature</a>
+    <a href="https://github.com/Candra-Kurnia/zwallet-express/issues">Request Feature</a>
   </p>
 </p>
 
@@ -67,7 +67,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone https://github.com/aryairama/zwallet-express.git
+git clone https://github.com/Candra-Kurnia/zwallet-express.git
 ```
 - Go To Folder Repo
 ```
@@ -144,9 +144,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Zwallet`](https://github.com/aryairama/zwallet-express)
+:rocket: [`Backend Zwallet`](https://github.com/Candra-Kurnia/zwallet-express)
 
-:rocket: [`Frontend Zwallet`](https://github.com/aryairama/zwallet-react)
+:rocket: [`Frontend Zwallet`](https://github.com/Candra-Kurnia/zwallet-react)
 
 :rocket: [`Demo Zwallet`](https://bit.ly/_zwallet)
 
@@ -176,6 +176,6 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-My Email : aryairama987@gmail.com
+My Email : candrakurniawan.dev@gmail.com
 
-Project Link: [https://github.com/aryairama/zwallet-express](https://github.com/aryairama/zwallet-express)
+Project Link: [https://github.com/Candra-Kurnia/zwallet-express](https://github.com/Candra-Kurnia/zwallet-express)
